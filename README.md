@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou **[Seu Nome]**
+# 👋 Olá, eu sou **Douglas M. Monquero**
 
 🎓 **Estudante de Mecatrônica no SENAI**  
 💻 Este perfil foi criado para armazenar e compartilhar os projetos, exercícios e atividades desenvolvidos durante as aulas de programação.
