@@ -44,3 +44,5 @@ GitHub: @seuusuario
 LinkedIn: (adicione seu perfil, se possuir)
 
 ⭐ Obrigado por visitar meu perfil! Estou em constante aprendizado e evolução na área de tecnologia e mecatrônica.
+
+"A prática leva ao conhecimento, e o conhecimento impulsiona a inovação." 🚀
