@@ -66,14 +66,12 @@ Os repositórios deste perfil têm como objetivo:
 
 </div>
 
-> **⚠️ Lembre-se de substituir `seuusuario` pelo seu nome de usuário do GitHub.**
-
 ---
 
 ## 📫 Contato
 
-- 🐙 GitHub: **@seuusuario**
-- 💼 LinkedIn: **Adicione seu perfil aqui**
+- 🐙 GitHub: **monquero76**
+- 💼 LinkedIn: **https://br.linkedin.com/in/douglas-monquero**
 
 ---
 
